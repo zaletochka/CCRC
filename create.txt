@@ -1,0 +1,17 @@
+create table continent(
+	id			bigint not null primary key,
+	name			character varying(128) not null)	
+create table country(
+	id			bigint not null primary key,
+	id_continent            bigint not null REFERENCES continent (id),
+	name			character varying(128) not null)	
+
+create table region(
+	id			bigint not null primary key,
+	country_id		bigint not null REFERENCES country (id),
+	name			character varying(128) not null)
+	
+create table city(
+	id			bigserial not null primary key,
+	region_id		bigint not null REFERENCES region (id),
+	name			character varying(128) not null);

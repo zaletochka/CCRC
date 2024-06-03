@@ -1,0 +1,1611 @@
+0,0,Москва и Московская обл.
+1,0,Санкт-Петербург и область
+2,0,Адыгея
+3,0,Алтайский край
+4,0,Амурская обл.
+5,0,Архангельская обл.
+6,0,Астраханская обл.
+7,0,Башкортостан(Башкирия)
+8,0,Белгородская обл.
+9,0,Брянская обл.
+10,0,Бурятия
+11,0,Владимирская обл.
+12,0,Волгоградская обл.
+13,0,Вологодская обл.
+14,0,Воронежская обл.
+15,0,Дагестан
+16,0,Еврейская обл.
+17,0,Ивановская обл.
+18,0,Иркутская обл.
+19,0,Кабардино-Балкария
+20,0,Калининградская обл.
+21,0,Калмыкия
+22,0,Калужская обл.
+23,0,Камчатская обл.
+24,0,Карелия
+25,0,Кемеровская обл.
+26,0,Кировская обл.
+27,0,Коми
+28,0,Костромская обл.
+29,0,Краснодарский край
+30,0,Красноярский край
+31,0,Курганская обл.
+32,0,Курская обл.
+33,0,Липецкая обл.
+34,0,Магаданская обл.
+35,0,Марий Эл
+36,0,Мордовия
+37,0,Мурманская обл.
+38,0,Нижегородская (Горьковская)
+39,0,Новгородская обл.
+40,0,Новосибирская обл.
+41,0,Омская обл.
+42,0,Оренбургская обл.
+43,0,Орловская обл.
+44,0,Пензенская обл.
+45,0,Пермский край
+46,0,Приморский край
+47,0,Псковская обл.
+48,0,Ростовская обл.
+49,0,Рязанская обл.
+50,0,Самарская обл.
+51,0,Саратовская обл.
+52,0,Саха (Якутия)
+53,0,Сахалин
+54,0,Свердловская обл.
+55,0,Северная Осетия
+56,0,Смоленская обл.
+57,0,Ставропольский край
+58,0,Тамбовская обл.
+59,0,Татарстан
+60,0,Тверская обл.
+61,0,Томская обл.
+62,0,Тува (Тувинская Респ.)
+63,0,Тульская обл.
+64,0,Тюменская обл. и Ханты-Мансийский АО
+65,0,Удмуртия
+66,0,Ульяновская обл.
+67,0,Уральская обл.
+68,0,Хабаровский край
+69,0,Хакасия
+70,0,Челябинская обл.
+71,0,Чечено-Ингушетия
+72,0,Читинская обл.
+73,0,Чувашия
+74,0,Чукотский АО
+75,0,Ямало-Ненецкий АО
+76,0,Ярославская обл.
+77,0,Карачаево-Черкесская Республика
+78,1,Винницкая обл.
+79,1,Волынская обл.
+80,1,Днепропетровская обл.
+81,1,Донецкая обл.
+82,1,Житомирская обл.
+83,1,Закарпатская обл.
+84,1,Запорожская обл.
+85,1,Ивано-Франковская обл.
+86,1,Киевская обл.
+87,1,Кировоградская обл.
+88,0,Крым АР.
+89,1,Луганская обл.
+90,1,Львовская обл.
+91,1,Николаевская обл.
+92,1,Одесская обл.
+93,1,Полтавская обл.
+94,1,Ровенская обл.
+95,1,Сумская обл.
+96,1,Тернопольская обл.
+97,1,Украина
+98,1,Харьковская обл.
+99,1,Херсонская обл.
+100,1,Хмельницкая обл.
+101,1,Черкасская обл.
+102,1,Черниговская обл.
+103,1,Черновицкая обл.
+104,2,Абхазия
+105,3,Australian Capital Territory
+106,3,New South Wales
+107,3,None
+108,3,Northern Territory
+109,3,Queensland
+110,3,South Australia
+111,3,Tasmania
+112,3,Victoria
+113,3,Western Australia
+114,4,Burgenland
+115,4,Krnten
+116,4,Niedersterreich
+117,4,Obersterreich
+118,4,Salzburg
+119,4,Steiermark
+120,4,Tirol
+121,4,Vorarlberg
+122,4,Wien
+123,5,Азербайджан
+124,5,Нагорный Карабах
+125,5,Нахичеванская обл.
+126,6,Berat
+127,6,Diber
+128,6,Durres
+129,6,Elbasan
+130,6,Fier
+131,6,Gjirokaster
+132,6,Korce
+133,6,Kukes
+134,6,None
+135,6,Shkoder
+136,6,Tirane
+137,6,Vlore
+138,7,Алжир
+139,8,Ангола
+140,9,Anguilla
+141,10,Andorra la Vella
+142,10,Canillo
+143,10,Encamp
+144,10,Escaldes-Engordany
+145,10,La Massana
+146,10,None
+147,10,Ordino
+148,10,Sant Julia de Loria
+149,11,Антигуа и Барбуда
+150,12,Виллемстад
+151,13,Buenos Aires
+152,13,Catamarca
+153,13,Chaco
+154,13,Chubut
+155,13,Crdoba
+156,13,Corrientes
+157,13,Distrito Federal
+158,13,Entre Ros
+159,13,Formosa
+160,13,Jujuy
+161,13,La Pampa
+162,13,La Rioja
+163,13,Mendoza
+164,13,Misiones
+165,13,Neuqun
+166,13,Ro Negro
+167,13,Salta
+168,13,San Juan
+169,13,San Luis
+170,13,Santa Cruz
+171,13,Santa Fe
+172,13,Santiago del Estero
+173,13,Tierra del Fuego
+174,13,Tucumn
+175,14,Aragatsotn
+176,14,Ararat
+177,14,Armavir
+178,14,Geghark''unik''
+179,14,Kotayk''
+180,14,Lorri
+181,14,None
+182,14,Shirak
+183,14,Syunik''
+184,14,Tavush
+185,14,Vayots'' Dzor
+186,14,Yerevan
+187,15,Арулько
+188,16,Афганистан
+189,17,Багамы
+190,18,Бангладеш
+191,19,Барбадос
+192,20,Бахрейн
+193,21,Брестская обл.
+194,21,Витебская обл.
+195,21,Гомельская обл.
+196,21,Гродненская обл.
+197,21,Минская обл.
+198,21,Могилевская обл.
+199,22,Belize
+200,23,Antwerpen
+201,23,Brabant Wallon
+202,23,Bruxelles
+203,23,Hainaut
+204,23,Lige
+205,23,Limburg
+206,23,Luxembourg
+207,23,Namur
+208,23,Oost-Vlaanderen
+209,23,Vlaams Brabant
+210,23,West-Vlaanderen
+211,24,Бенин
+212,25,Hamilton
+213,26,Blagoevgrad
+214,26,Burgas
+215,26,Dobrich
+216,26,Gabrovo
+217,26,Grad Sofiya
+218,26,Khaskovo
+219,26,Kurdzhali
+220,26,Kyustendil
+221,26,Lovech
+222,26,Montana
+223,26,None
+224,26,Pazardzhik
+225,26,Pernik
+226,26,Pleven
+227,26,Plovdiv
+228,26,Razgrad
+229,26,Ruse
+230,26,Shumen
+231,26,Silistra
+232,26,Sliven
+233,26,Smolyan
+234,26,Sofiya
+235,26,Stara Zagora
+236,26,Turgovishte
+237,26,Varna
+238,26,Veliko Turnovo
+239,26,Vidin
+240,26,Vratsa
+241,26,Yambol
+242,27,Chuquisaca
+243,27,Cochabamba
+244,27,El Beni
+245,27,La Paz
+246,27,None
+247,27,Oruro
+248,27,Potos
+249,27,Santa Cruz
+250,28,Federation of Bosnia and Herzegovina
+251,28,None
+252,28,Republika Srpska
+253,29,Ботсвана
+254,30,Acre
+255,30,Alagoas
+256,30,Amapa
+257,30,Amazonas
+258,30,Bahia
+259,30,Ceara
+260,30,Distrito Federal
+261,30,Espirito Santo
+262,30,Goias
+263,30,Maranhao
+264,30,Minas Gerais
+265,30,Paraiba
+266,30,Parana
+267,30,Rio de Janeiro
+268,30,Rio Grande do Norte
+269,30,Rio Grande do Sul
+270,30,Rondonia
+271,30,Roraima
+272,30,Santa Catarina
+273,30,Sao Paulo
+274,30,Sergipe
+275,31,Род-Таун
+276,32,Бруней
+277,33,Буркина Фасо
+278,34,Бурунди
+279,35,Бутан
+280,36,Мата-Уту
+281,37,Вануату
+282,38,Channel Islands
+283,38,England - East
+284,38,England - East Midlands
+285,38,England - London
+286,38,England - North East
+287,38,England - North West
+288,38,England - South East
+289,38,England - South West
+290,38,England - West Midlands
+291,38,England - Yorks & Humber
+292,38,Isle of Man
+293,38,Northern Ireland
+294,38,Scotland Central
+295,38,Scotland North
+296,38,Scotland South
+297,38,Wales North
+298,38,Wales South
+299,39,Bacs-Kiskun
+300,39,Bekes
+301,39,Borsod-Abauj-Zemplen
+302,39,Budapest
+303,39,Csongrad
+304,39,Debrecen
+305,39,Fejer
+306,39,Gyor
+307,39,Gyor-Moson-Sopron
+308,39,Heves
+309,39,Jasz-Nagykun-Szolnok
+310,39,Komarom-Esztergom
+311,39,Miskolc
+312,39,Nograd
+313,39,Pecs
+314,39,Pest
+315,39,Somogy
+316,39,Szabolcs-Szatmar-Bereg
+317,39,Szeged
+318,39,Tolna
+319,39,Vas
+320,39,Veszprem
+321,39,Zala
+322,40,Amazonas
+323,40,Anzoategui
+324,40,Apure
+325,40,Aragua
+326,40,Barinas
+327,40,Bolvar
+328,40,Carabobo
+329,40,Cojedes
+330,40,Delta Amacuro
+331,40,Distrito Federal
+332,40,Falcn
+333,40,Gurico
+334,40,Lara
+335,40,Mrida
+336,40,Miranda
+337,40,Monagas
+338,40,None
+339,40,Nueva Esparta
+340,40,Portuguesa
+341,40,Sucre
+342,40,Tchira
+343,40,Yaracuy
+344,40,Zulia
+345,41,Восточный Тимор
+346,42,Dong Bang Song Hong
+347,42,Dong Nam Bo
+348,42,Duyen Hai Mien Trung
+349,42,Khu Bon Cu
+350,42,Mien Nui Va Trung Du
+351,42,Thai Nguyen
+352,43,Габон
+353,44,Artibonite
+354,44,Grand''Anse
+355,44,Nord-Ouest
+356,44,Ouest
+357,44,Sud
+358,44,Sud-Est
+359,45,Гайана
+360,46,Гамбия
+361,47,Гана
+362,48,Grande-Terre
+363,48,Бас-Тер
+364,49,Alta Verapaz
+365,49,Baja Verapaz
+366,49,Chimaltenango
+367,49,Chiquimula
+368,49,Escuintla
+369,49,Guatemala
+370,49,Jutiapa
+371,49,Petn
+372,49,Quetzaltenango
+373,49,Totonicapn
+374,49,Zacapa
+375,50,Гвинея
+376,51,Бисау
+377,52,Baden-Wrttemberg
+378,52,Bayern
+379,52,Berlin
+380,52,Brandenburg
+381,52,Bremen
+382,52,Hamburg
+383,52,Hessen
+384,52,Mecklenburg-Vorpommern
+385,52,Niedersachsen
+386,52,Nordrhein-Westfalen
+387,52,Rheinland-Pfalz
+388,52,Saarland
+389,52,Sachsen
+390,52,Sachsen-Anhalt
+391,52,Schleswig-Holstein
+392,52,Thringen
+393,53,Сент-Питер-Порт
+394,54,Gibraltar
+395,55,Тегусигальпа
+396,56,Гонконг
+397,57,Сент-Джорджес
+398,58,Гренландия
+399,59,Aitolia kai Akarnania
+400,59,Akhaia
+401,59,Argolis
+402,59,Arkadhia
+403,59,Arta
+404,59,Attiki
+405,59,Dhodhekanisos
+406,59,Drama
+407,59,Evritania
+408,59,Evros
+409,59,Evvoia
+410,59,Florina
+411,59,Fthiotis
+412,59,Grevena
+413,59,Ilia
+414,59,Imathia
+415,59,Ioannina
+416,59,Iraklion
+417,59,Kardhitsa
+418,59,Kastoria
+419,59,Kavala
+420,59,Kefallinia
+421,59,Kerkira
+422,59,Khalkidhiki
+423,59,Khania
+424,59,Khios
+425,59,Kikladhes
+426,59,Kilkis
+427,59,Korinthia
+428,59,Kozani
+429,59,Lakonia
+430,59,Larisa
+431,59,Lasithi
+432,59,Lesvos
+433,59,Levkas
+434,59,Magnisia
+435,59,Messinia
+436,59,None
+437,59,Pella
+438,59,Pieria
+439,59,Preveza
+440,59,Rethimni
+441,59,Rodhopi
+442,59,Samos
+443,59,Serrai
+444,59,Thesprotia
+445,59,Thessaloniki
+446,59,Trikala
+447,59,Voiotia
+448,59,Xanthi
+449,59,Zakinthos
+450,60,Аджария
+451,60,Грузия
+452,61,Arhus
+453,61,Bornholm
+454,61,Frederiksborg
+455,61,Fyn
+456,61,Kobenhavn
+457,61,None
+458,61,Nordjylland
+459,61,Ribe
+460,61,Ringkobing
+461,61,Roskilde
+462,61,Sonderjylland
+463,61,Staden Kobenhavn
+464,61,Storstrom
+465,61,Vejle
+466,61,Vestsjalland
+467,61,Viborg
+468,62,Сент-Элье
+469,63,Джибути
+470,64,Санто-доминго
+471,65,Аль-Кахира
+472,65,Асуан
+473,65,Асьют
+474,65,Бени-Суэйф
+475,65,Гарбия
+476,65,Думьят
+477,65,Египет
+478,65,Синай
+479,66,Замбия
+480,67,Западная Сахара
+481,68,Зимбабве
+482,69,Вади-Ара
+483,69,Иерусалим
+484,69,Рамат ХаГолан
+485,69,Тель-Авив
+486,69,Хадаром
+487,69,Хайфа
+488,69,Хамерказ
+489,69,Хацафон
+490,70,Bangla
+491,70,Chhattisgarh
+492,70,Karnataka
+493,70,Андхра-Прадеш
+494,70,Ассам
+495,70,Бихар
+496,70,Гуджарат
+497,70,Джамму и Кашмир
+498,70,Индия
+499,70,Керала
+500,70,Мадхья-Прадеш
+501,70,Манипур
+502,70,Махараштра
+503,70,Орисса
+504,70,Пенджаб
+505,70,Пондишери
+506,70,Раджастхан
+507,70,Тамилнад
+508,70,Трипура
+509,70,Уттар-Прадеш
+510,70,Харьяна
+511,70,Чандигарх
+512,71,Индонезия
+513,72,Иордания
+514,73,Багдад
+515,73,Басра
+516,73,Мосул
+517,74,Azarbayjan-e Khavari
+518,74,Esfahan
+519,74,Hamadan
+520,74,Kordestan
+521,74,Yazd
+522,74,Керман
+523,74,Керманшахан
+524,74,Мазендеран
+525,74,Тегеран
+526,74,Фарс
+527,74,Хорасан
+528,74,Хузистан
+529,75,Carlow
+530,75,Cavan
+531,75,Clare
+532,75,Cork
+533,75,Donegal
+534,75,Dublin
+535,75,Galway
+536,75,Kerry
+537,75,Kildare
+538,75,Kilkenny
+539,75,Laois
+540,75,Leitrim
+541,75,Limerick
+542,75,Longford
+543,75,Louth
+544,75,Mayo
+545,75,Meath
+546,75,Monaghan
+547,75,Offaly
+548,75,Roscommon
+549,75,Sligo
+550,75,Tipperary
+551,75,Waterford
+552,75,Westmeath
+553,75,Wexford
+554,75,Wicklow
+555,76,Arnessysla
+556,76,Austur-Hunavatnssysla
+557,76,Borgarfjardarsysla
+558,76,Eyjafjardarsysla
+559,76,Gullbringusysla
+560,76,Myrasysla
+561,76,None
+562,76,Nordur-Tingeyjarsysla
+563,76,Strandasysla
+564,76,Sudur-Mulasysla
+565,76,Vestur-Bardastrandarsysla
+566,77,A Corua
+567,77,lava
+568,77,Albacete
+569,77,Alicante/Alacant
+570,77,Almera
+571,77,Asturias
+572,77,vila
+573,77,Badajoz
+574,77,Barcelona
+575,77,Burgos
+576,77,Cceres
+577,77,Cdiz
+578,77,Cantabria
+579,77,Castelln/Castell
+580,77,Ceuta
+581,77,Ciudad Real
+582,77,Crdoba
+583,77,Cuenca
+584,77,Girona
+585,77,Granada
+586,77,Guadalajara
+587,77,Guipzcoa
+588,77,Huelva
+589,77,Huesca
+590,77,Illes Balears
+591,77,Jan
+592,77,La Rioja
+593,77,Las Palmas
+594,77,Len
+595,77,Lleida
+596,77,Lugo
+597,77,Madrid
+598,77,Mlaga
+599,77,Melilla
+600,77,Murcia
+601,77,Navarra
+602,77,Ourense
+603,77,Palencia
+604,77,Pontevedra
+605,77,Salamanca
+606,77,Santa Cruz de Tenerife
+607,77,Segovia
+608,77,Sevilla
+609,77,Soria
+610,77,Tarragona
+611,77,Teruel
+612,77,Toledo
+613,77,Valncia
+614,77,Valladolid
+615,77,Vizcaya
+616,77,Zamora
+617,77,Zaragoza
+618,78,Abruzzo - Chieti
+619,78,Abruzzo - L''Aquila
+620,78,Abruzzo - Pescara
+621,78,Abruzzo - Teramo
+622,78,Basilicata - Matera
+623,78,Basilicata - Potenza
+624,78,Calabria - Catanzaro
+625,78,Calabria - Cosenza
+626,78,Calabria - Crotone
+627,78,Calabria - Reggio Calabria
+628,78,Calabria - Vibo Valentia
+629,78,Campania - Avellino
+630,78,Campania - Benevento
+631,78,Campania - Caserta
+632,78,Campania - Napoli
+633,78,Campania - Salerno
+634,78,Emilia Romagna - Bologna
+635,78,Emilia Romagna - Ferrara
+636,78,Emilia Romagna - Forl-Cesena
+637,78,Emilia Romagna - Modena
+638,78,Emilia Romagna - Parma
+639,78,Emilia Romagna - Piacenza
+640,78,Emilia Romagna - Ravenna
+641,78,Emilia Romagna - Reggio Emilia
+642,78,Emilia Romagna - Rimini
+643,78,Friuli Venezia Giulia - Gorizia
+644,78,Friuli Venezia Giulia - Pordenone
+645,78,Friuli Venezia Giulia - Trieste
+646,78,Friuli Venezia Giulia - Udine
+647,78,Lazio - Frosinone
+648,78,Lazio - Latina
+649,78,Lazio - Rieti
+650,78,Lazio - Roma
+651,78,Lazio - Viterbo
+652,78,Liguria - Genova
+653,78,Liguria - Imperia
+654,78,Liguria - La Spezia
+655,78,Liguria - Savona
+656,78,Lombardia - Bergamo
+657,78,Lombardia - Brescia
+658,78,Lombardia - Como
+659,78,Lombardia - Cremona
+660,78,Lombardia - Lecco
+661,78,Lombardia - Lodi
+662,78,Lombardia - Mantova
+663,78,Lombardia - Milano
+664,78,Lombardia - Pavia
+665,78,Lombardia - Sondrio
+666,78,Lombardia - Varese
+667,78,Marche - Ancona
+668,78,Marche - Ascoli Piceno
+669,78,Marche - Macerata
+670,78,Marche - Pesaro - Urbino
+671,78,Molise - Campobasso
+672,78,Molise - Isernia
+673,78,Piemonte - Alessandria
+674,78,Piemonte - Biella
+675,78,Piemonte - Cuneo
+676,78,Piemonte - Novara
+677,78,Piemonte - Torino
+678,78,Piemonte - Verbania
+679,78,Piemonte - Vercelli
+680,78,Puglia - Bari
+681,78,Puglia - Brindisi
+682,78,Puglia - Foggia
+683,78,Puglia - Lecce
+684,78,Puglia - Taranto
+685,78,Sardegna - Cagliari
+686,78,Sardegna - Nuoro
+687,78,Sardegna - Oristano
+688,78,Sardegna - Sassari
+689,78,Sicilia - Agrigento
+690,78,Sicilia - Catania
+691,78,Sicilia - Messina
+692,78,Sicilia - Palermo
+693,78,Sicilia - Ragusa
+694,78,Sicilia - Siracusa
+695,78,Sicilia - Trapani
+696,78,Toscana - Arezzo
+697,78,Toscana - Firenze
+698,78,Toscana - Grosseto
+699,78,Toscana - Livorno
+700,78,Toscana - Lucca
+701,78,Toscana - Massa Carrara
+702,78,Toscana - Pisa
+703,78,Toscana - Pistoia
+704,78,Toscana - Prato
+705,78,Toscana - Siena
+706,78,Trentino Alto Adige - Bolzano
+707,78,Trentino Alto Adige - Trento
+708,78,Umbria - Perugia
+709,78,Umbria - Terni
+710,78,Valle d''Aosta - Aosta
+711,78,Veneto - Belluno
+712,78,Veneto - Padova
+713,78,Veneto - Rovigo
+714,78,Veneto - Treviso
+715,78,Veneto - Venezia
+716,78,Veneto - Verona
+717,78,Veneto - Vicenza
+718,79,Йемен
+719,80,Кабо-Верде
+720,81,Акмолинская обл. (Целиноградская обл.)
+721,81,Актюбинская обл.
+722,81,Алма-Атинская обл.
+723,81,Восточно-Казахстанская обл.
+724,81,Гурьевская обл.
+725,81,Джезказганская обл.
+726,81,Жамбылская обл. (Джамбулская обл.)
+727,81,Западно-Казахстанская обл.
+728,81,Казахстан
+729,81,Карагандинская обл.
+730,81,Кзылординская обл.
+731,81,Кокчетавская обл.
+732,81,Кустанайская обл.
+733,81,Мангыстауская (Мангышлакская обл.)
+734,81,Павлодарская обл.
+735,81,Северо-Казахстанская обл.
+736,81,Талды-Курганская обл.
+737,81,Тургайская обл.
+738,81,Чимкентская обл.
+739,82,Камбоджа
+740,83,Littoral
+741,83,Sudouest
+742,83,Северная
+743,83,Центральная
+744,84,Alberta
+745,84,British Columbia
+746,84,Manitoba
+747,84,New Brunswick
+748,84,Newfoundland
+749,84,Northwest Territories
+750,84,Nova Scotia
+751,84,Nunavut
+752,84,Ontario
+753,84,Prince Edward Island
+754,84,Quebec
+755,84,Saskatchewan
+756,84,Yukon Territory
+757,85,Доха
+758,86,Central
+759,86,Coast
+760,86,Nairobi Area
+761,86,North-Eastern
+762,86,Western
+763,87,Government controlled area
+764,87,Turkish controlled area
+765,88,None
+766,89,Anhui
+767,89,Beijing
+768,89,Chongqing
+769,89,Fujian
+770,89,Gansu
+771,89,Guangdong
+772,89,Guangxi
+773,89,Guizhou
+774,89,Hainan
+775,89,Hebei
+776,89,Heilongjiang
+777,89,Henan
+778,89,Hubei
+779,89,Hunan
+780,89,Jiangsu
+781,89,Jiangxi
+782,89,Jilin
+783,89,Liaoning
+784,89,Nei Mongol
+785,89,Ningxia
+786,89,Qinghai
+787,89,Shaanxi
+788,89,Shandong
+789,89,Shanghai
+790,89,Shanxi
+791,89,Sichuan
+792,89,Tianjin
+793,89,Xinjiang
+794,89,Yunnan
+795,89,Zhejiang
+796,90,Amazonas
+797,90,Antioquia
+798,90,Atlntico
+799,90,Casanare
+800,90,Cauca
+801,90,Csar
+802,90,Choc
+803,90,Crdoba
+804,90,Cundinamarca
+805,90,Distrito Especial
+806,90,Huila
+807,90,La Guajira
+808,90,Meta
+809,90,Narino
+810,90,Norte de Santander
+811,90,Quindo
+812,90,Risaralda
+813,90,Santander
+814,90,Tolima
+815,91,Коморские
+816,92,Конго (Brazzaville)
+817,93,Конго
+818,94,Alajuela
+819,94,Cartago
+820,94,Guanacaste
+821,94,Heredia
+822,94,Limn
+823,94,Puntarenas
+824,94,San Jos
+825,95,Кот-д''Ивуар
+826,96,Camaguey
+827,96,Ciego de Avila
+828,96,Ciudad de la Habana
+829,96,Granma
+830,96,Guantanamo
+831,96,Holguin
+832,96,Isla de la Juventud
+833,96,La Habana
+834,96,Las Tunas
+835,96,Matanzas
+836,96,None
+837,96,Pinar del Rio
+838,96,Sancti Spiritus
+839,96,Santiago de Cuba
+840,96,Villa Clara
+841,97,al-Jahra
+842,97,al-Kuwayt
+843,98,Аваруа
+844,99,Иссык-Кульская обл.
+845,99,Кыргызстан
+846,99,Нарынская обл.
+847,99,Ошская обл.
+848,99,Таласская обл.
+849,100,Лаос
+850,101,Латвия
+851,102,Лесото
+852,103,Либерия
+853,104,Бейрут
+854,105,Tarabulus
+855,105,Бенгази
+856,106,Литва
+857,107,Balzers
+858,107,Eschen
+859,107,Ruggell
+860,107,Schellenberg
+861,107,Triesen
+862,107,Vaduz
+863,108,Diekirch
+864,108,Grevenmacher
+865,108,Luxembourg
+866,108,None
+867,109,Маврикий
+868,110,Мавритания
+869,111,Мадагаскар
+870,112,Aracinovo
+871,112,Berovo
+872,112,Bitola
+873,112,Bosilovo
+874,112,Dolna Banjica
+875,112,Drugovo
+876,112,Gevgelija
+877,112,Gostivar
+878,112,Karpos
+879,112,Kavadarci
+880,112,Kisela Voda
+881,112,Kumanovo
+882,112,Makedonska Kamenica
+883,112,Negotino
+884,112,Ohrid
+885,112,Prilep
+886,112,Radovis
+887,112,Saraj
+888,112,Star Dojran
+889,112,Struga
+890,112,Strumica
+891,112,Sveti Nikole
+892,112,Tetovo
+893,112,Veles
+894,113,Малави
+895,114,Малайзия
+896,115,Мали
+897,116,Мальдивские о-ва
+898,117,Malta
+899,118,Фор-де-Франс
+900,119,Aguascalientes
+901,119,Baja California
+902,119,Baja California Sur
+903,119,Campeche
+904,119,Chiapas
+905,119,Chihuahua
+906,119,Coahuila de Zaragoza
+907,119,Colima
+908,119,Distrito Federal
+909,119,Durango
+910,119,Guanajuato
+911,119,Guerrero
+912,119,Hidalgo
+913,119,Jalisco
+914,119,Mxico
+915,119,Michoacn de Ocampo
+916,119,Morelos
+917,119,Nayarit
+918,119,None
+919,119,Nuevo Len
+920,119,Oaxaca
+921,119,Puebla
+922,119,Quertaro de Arteaga
+923,119,Quintana Roo
+924,119,San Luis Potos
+925,119,Sinaloa
+926,119,Sonora
+927,119,Tabasco
+928,119,Tamaulipas
+929,119,Tlaxcala
+930,119,Veracruz-Llave
+931,119,Yucatn
+932,120,Мозамбик
+933,121,Молдова
+934,122,Monaco
+935,123,Улан-Батор
+936,124,Марокко
+937,124,Танжер
+938,125,Мьянма (Бирма)
+939,126,Остров Мэн
+940,127,Намибия
+941,128,Науру
+942,129,Непал
+943,130,Нигер
+944,131,Нигерия
+945,132,Drenthe
+946,132,Flevoland
+947,132,Friesland
+948,132,Gelderland
+949,132,Groningen
+950,132,Limburg
+951,132,Noord-Brabant
+952,132,Noord-Holland
+953,132,Overijssel
+954,132,Utrecht
+955,132,Zeeland
+956,132,Zuid-Holland
+957,133,Granada
+958,133,Len
+959,133,Managua
+960,133,Rio San Juan
+961,134,Auckland
+962,134,Bay of Plenty
+963,134,Canterbury
+964,134,Gisborne
+965,134,Manawatu-Wanganui
+966,134,Marlborough
+967,134,Nelson
+968,134,Northland
+969,134,Otago
+970,134,Southland
+971,134,Taranaki
+972,134,Tasman
+973,134,Wellington
+974,134,West Coast
+975,135,Нумеа
+976,136,Akershus
+977,136,Aust-Agder
+978,136,Buskerud
+979,136,Finnmark
+980,136,Hedmark
+981,136,Hordaland
+982,136,More og Romsdal
+983,136,None
+984,136,Nord-Trondelag
+985,136,Nordland
+986,136,Oppland
+987,136,Oslo
+988,136,Ostfold
+989,136,Rogaland
+990,136,Sogn og Fjordane
+991,136,Sor-Trondelag
+992,136,Telemark
+993,136,Troms
+994,136,Vest-Agder
+995,136,Vestfold
+996,137,Кингстон
+997,138,Абу Даби
+998,138,Дубаи
+999,139,Оман
+1000,140,Пакистан
+1001,141,Chiriqu
+1002,141,Cocl
+1003,141,Herrera
+1004,141,Los Santos
+1005,141,Panam
+1006,142,Папуа Новая Гвинея
+1007,143,Alto Paran
+1008,143,Central
+1009,143,Cordillera
+1010,143,Paraguar
+1011,143,San Pedro
+1012,144,Amazonas
+1013,144,Ancash
+1014,144,Arequipa
+1015,144,Ayacucho
+1016,144,Cajamarca
+1017,144,Callao
+1018,144,Cusco
+1019,144,Hunuco
+1020,144,Ica
+1021,144,Junn
+1022,144,La Libertad
+1023,144,Lambayeque
+1024,144,Lima
+1025,144,Loreto
+1026,144,Madre de Dios
+1027,144,None
+1028,144,Pasco
+1029,144,Piura
+1030,144,Puno
+1031,144,San Martn
+1032,144,Tacna
+1033,144,Tumbes
+1034,144,Ucayali
+1035,145,Адамстаун
+1036,146,Biala Podlaska
+1037,146,Bialystok
+1038,146,Bielsko
+1039,146,Bydgoszcz
+1040,146,Chelm
+1041,146,Czestochowa
+1042,146,Dolnoslaskie
+1043,146,Elblag
+1044,146,Gdansk
+1045,146,Gorzow
+1046,146,Jelenia Gora
+1047,146,Kalisz
+1048,146,Katowice
+1049,146,Kielce
+1050,146,Konin
+1051,146,Koszalin
+1052,146,Krakow
+1053,146,Kujawsko-Pomorskie
+1054,146,Legnica
+1055,146,Leszno
+1056,146,Lodz
+1057,146,Lodzkie
+1058,146,Lomza
+1059,146,Lublin
+1060,146,Lubuskie
+1061,146,Malopolskie
+1062,146,Mazowieckie
+1063,146,None
+1064,146,Nowy Sacz
+1065,146,Olsztyn
+1066,146,Opole
+1067,146,Ostroleka
+1068,146,Pila
+1069,146,Piotrkow
+1070,146,Plock
+1071,146,Podkarpackie
+1072,146,Pomorskie
+1073,146,Poznan
+1074,146,Przemysl
+1075,146,Radom
+1076,146,Rzeszow
+1077,146,Siedlce
+1078,146,Sieradz
+1079,146,Skierniewice
+1080,146,Slaskie
+1081,146,Slupsk
+1082,146,Suwalki
+1083,146,Swietokrzyskie
+1084,146,Tarnobrzeg
+1085,146,Tarnow
+1086,146,Torun
+1087,146,Walbrzych
+1088,146,Warminsko-Mazurskie
+1089,146,Warszawa
+1090,146,Wielkopolskie
+1091,146,Wloclawek
+1092,146,Wroclaw
+1093,146,Zachodniopomorskie
+1094,146,Zamosc
+1095,146,Zielona Gora
+1096,147,Aveiro
+1097,147,Azores
+1098,147,Beja
+1099,147,Braga
+1100,147,Braganca
+1101,147,Castelo Branco
+1102,147,Coimbra
+1103,147,Evora
+1104,147,Faro
+1105,147,Guarda
+1106,147,Leiria
+1107,147,Lisboa
+1108,147,Madeira
+1109,147,None
+1110,147,Portalegre
+1111,147,Porto
+1112,147,Santarem
+1113,147,Setubal
+1114,147,Viana do Castelo
+1115,147,Vila Real
+1116,147,Viseu
+1117,148,Puerto Rico
+1118,149,Saint-Denis
+1119,150,Руанда
+1120,151,Alba
+1121,151,Arad
+1122,151,Arges
+1123,151,Bacau
+1124,151,Bihor
+1125,151,Bistrita-Nasaud
+1126,151,Botosani
+1127,151,Braila
+1128,151,Brasov
+1129,151,Bucuresti
+1130,151,Buzau
+1131,151,Calarasi
+1132,151,Caras-Severin
+1133,151,Cluj
+1134,151,Constanta
+1135,151,Covasna
+1136,151,Dambovita
+1137,151,Dolj
+1138,151,Galati
+1139,151,Giurgiu
+1140,151,Gorj
+1141,151,Harghita
+1142,151,Hunedoara
+1143,151,Ialomita
+1144,151,Iasi
+1145,151,Ilfov
+1146,151,Maramures
+1147,151,Mehedinti
+1148,151,Mures
+1149,151,Neamt
+1150,151,Olt
+1151,151,Prahova
+1152,151,Salaj
+1153,151,Satu Mare
+1154,151,Sibiu
+1155,151,Suceava
+1156,151,Teleorman
+1157,151,Timis
+1158,151,Tulcea
+1159,151,Valcea
+1160,151,Vaslui
+1161,151,Vrancea
+1162,152,Alabama
+1163,152,Alaska
+1164,152,American Samoa
+1165,152,Arizona
+1166,152,Arkansas
+1167,152,California
+1168,152,Colorado
+1169,152,Connecticut
+1170,152,Delaware
+1171,152,District of Columbia
+1172,152,Florida
+1173,152,Georgia
+1174,152,Hawaii
+1175,152,Idaho
+1176,152,Illinois
+1177,152,Indiana
+1178,152,Iowa
+1179,152,Kansas
+1180,152,Kentucky
+1181,152,Louisiana
+1182,152,Maine
+1183,152,Maryland
+1184,152,Massachusetts
+1185,152,Michigan
+1186,152,Minnesota
+1187,152,Mississippi
+1188,152,Missouri
+1189,152,Montana
+1190,152,Nebraska
+1191,152,Nevada
+1192,152,New Hampshire
+1193,152,New Jersey
+1194,152,New Mexico
+1195,152,New York
+1196,152,North Carolina
+1197,152,North Dakota
+1198,152,Ohio
+1199,152,Oklahoma
+1200,152,Oregon
+1201,152,Pennsylvania
+1202,152,Rhode Island
+1203,152,South Carolina
+1204,152,South Dakota
+1205,152,Tennessee
+1206,152,Texas
+1207,152,Utah
+1208,152,Vermont
+1209,152,Virgin Islands
+1210,152,Virginia
+1211,152,Washington
+1212,152,West Virginia
+1213,152,Wisconsin
+1214,152,Wyoming
+1215,153,Ahuachapan
+1216,153,La Libertad
+1217,153,La Paz
+1218,153,La Union
+1219,153,San Miguel
+1220,153,San Salvador
+1221,154,Самоа
+1222,155,Acquaviva
+1223,155,Chiesanuova
+1224,155,Serravalle
+1225,156,Сан-Томе
+1226,157,Саудовская Аравия
+1227,158,Свазиленд
+1228,159,Кастри
+1229,160,Джеймстаун
+1230,161,Korea
+1231,162,Сейшеллы
+1232,163,Сен-Пьер
+1233,164,Сенегал
+1234,165,Бастер
+1235,166,Кингстаун
+1236,167,Воеводина
+1237,167,Косово и Метохия
+1238,167,Центральная Сербия
+1239,168,Сингапур
+1240,169,Дамаск
+1241,170,Bratislava
+1242,170,Kosice
+1243,170,Nitra
+1244,170,None
+1245,170,Presov
+1246,170,Trencin
+1247,170,Trnava
+1248,171,Bohinj
+1249,171,Brezovica
+1250,171,None
+1251,172,Соломоновы о-ва
+1252,173,Могадишо
+1253,174,Судан
+1254,175,Paramaribo
+1255,176,Фритаун
+1256,177,Горно-Бадахшанская обл.
+1257,177,Кулябская обл.
+1258,177,Курган-Тюбинская обл.
+1259,177,Согдийская обл.
+1260,177,Таджикистан
+1261,178,Тайвань
+1262,179,Сураттани
+1263,179,Тайланд
+1264,179,Чон Бури
+1265,180,Танзания
+1266,181,Того
+1267,182,Факаофо
+1268,183,Тонга
+1269,184,Порт-оф-Спейн
+1270,185,Тувалу
+1271,186,Tunisia
+1272,187,Ашхабадская обл.
+1273,187,Красноводская обл.
+1274,187,Марыйская обл.
+1275,187,Ташаузская обл.
+1276,187,Чарджоуская обл.
+1277,188,Grand Turk
+1278,189,Bartin
+1279,189,Bayburt
+1280,189,Karabuk
+1281,189,Адана
+1282,189,Айдын
+1283,189,Амасья
+1284,189,Анкара
+1285,189,Анталья
+1286,189,Артвин
+1287,189,Афьон
+1288,189,Балыкесир
+1289,189,Биледжик
+1290,189,Бурса
+1291,189,Газиантеп
+1292,189,Денизли
+1293,189,Измир
+1294,189,Испарта
+1295,189,Ичель
+1296,189,Кайсери
+1297,189,Карс
+1298,189,Коджаэли
+1299,189,Конья
+1300,189,Кыркларели
+1301,189,Кютахья
+1302,189,Малатья
+1303,189,Маниса
+1304,189,Сакарья
+1305,189,Самсун
+1306,189,Сивас
+1307,189,Стамбул
+1308,189,Чорум
+1309,189,Эдирне
+1310,189,Элязыг
+1311,189,Эрзинджан
+1312,189,Эрзурум
+1313,189,Эскишехир
+1314,190,Jinja
+1315,190,Kampala
+1316,191,Андижанская обл.
+1317,191,Бухарская обл.
+1318,191,Джизакская обл.
+1319,191,Каракалпакия
+1320,191,Кашкадарьинская обл.
+1321,191,Навоийская обл.
+1322,191,Наманганская обл.
+1323,191,Самаркандская обл.
+1324,191,Сурхандарьинская обл.
+1325,191,Сырдарьинская обл.
+1326,191,Ташкентская обл.
+1327,191,Ферганская обл.
+1328,191,Хорезмская обл.
+1329,192,Canelones
+1330,192,Colonia
+1331,192,Lavalleja
+1332,192,Maldonado
+1333,192,Montevideo
+1334,192,Paysand
+1335,192,Ro Negro
+1336,192,Rivera
+1337,192,Salto
+1338,192,Tacuaremb
+1339,192,Treinta y Tres
+1340,193,Торсхавн
+1341,194,Фиджи
+1342,195,Филиппины
+1343,196,•land
+1344,196,Eastern Finland
+1345,196,Lapland
+1346,196,None
+1347,196,Oulu
+1348,196,Southern Finland
+1349,196,Western Finland
+1350,197,Ain
+1351,197,Aisne
+1352,197,Allier
+1353,197,Alpes-de-Haute-Provence
+1354,197,Alpes-Maritimes
+1355,197,Ardche
+1356,197,Ardennes
+1357,197,Arige
+1358,197,Aube
+1359,197,Aude
+1360,197,Aveyron
+1361,197,Bas Rhin
+1362,197,Bouches-du-Rhne
+1363,197,Calvados
+1364,197,Cantal
+1365,197,Charente
+1366,197,Charente Maritime
+1367,197,Cher
+1368,197,Corrze
+1369,197,Corse
+1370,197,Cte d''Or
+1371,197,Ctes d''Armor
+1372,197,Creuse
+1373,197,Deux-Svres
+1374,197,Dordogne
+1375,197,Doubs
+1376,197,Drme
+1377,197,Essone
+1378,197,Eure
+1379,197,Eure-et-Loire
+1380,197,Finistre
+1381,197,Gard
+1382,197,Gers
+1383,197,Gironde
+1384,197,Haut Rhin
+1385,197,Haute-Garonne
+1386,197,Haute-Loire
+1387,197,Haute-Marne
+1388,197,Haute-Sane
+1389,197,Haute-Savoie
+1390,197,Haute-Vienne
+1391,197,Hautes-Alpes
+1392,197,Hautes-Pyrnes
+1393,197,Hauts-de-Seine
+1394,197,Hrault
+1395,197,Ille et Vilaine
+1396,197,Indre
+1397,197,Indre-et-Loire
+1398,197,Isre
+1399,197,Jura
+1400,197,Landes
+1401,197,Loir-et-Cher
+1402,197,Loire
+1403,197,Loire Atlantique
+1404,197,Loiret
+1405,197,Lot
+1406,197,Lot-et-Garonne
+1407,197,Lozre
+1408,197,Maine et Loire
+1409,197,Manche
+1410,197,Marne
+1411,197,Mayenne
+1412,197,Meurthe-et-Moselle
+1413,197,Meuse
+1414,197,Morbihan
+1415,197,Moselle
+1416,197,Nord
+1417,197,Oise
+1418,197,Orne
+1419,197,Paris
+1420,197,Pas-de-Calais
+1421,197,Puy-de-Dme
+1422,197,Pyrnes-Atlantiques
+1423,197,Pyrnes-Orientales
+1424,197,Rhne
+1425,197,Sane et Loire
+1426,197,Savoie
+1427,197,Seine-et-Marne
+1428,197,Seine-Maritime
+1429,197,Seine-Saint-Denis
+1430,197,Somme
+1431,197,Tarn
+1432,197,Tarn-et-Garonne
+1433,197,Territoire de Belfort
+1434,197,Val-d''Oise
+1435,197,Val-de-Marne
+1436,197,Var
+1437,197,Vaucluse
+1438,197,Vende
+1439,197,Vienne
+1440,197,Vosges
+1441,197,Yonne
+1442,197,Yvelines
+1443,198,Caennes
+1444,199,Папеэте
+1445,200,Dubrovacko-Neretvanska
+1446,200,Grad Zagreb
+1447,200,Istarska
+1448,200,Karlovacka
+1449,200,Medimurska
+1450,200,None
+1451,200,Primorsko-Goranska
+1452,200,Sibensko-Kninska
+1453,200,Sisacko-Moslavacka
+1454,200,Splitsko-Dalmatinska
+1455,200,Varazdinska
+1456,200,Zagrebacka
+1457,201,Чад
+1458,202,Черногория
+1459,203,Hlavni Mesto Praha
+1460,203,Jihocesky Kraj
+1461,203,Jihomoravsky Kraj
+1462,203,Karlovarsky Kraj
+1463,203,Kralovehradecky Kraj
+1464,203,Liberecky Kraj
+1465,203,Moravskoslezsky Kraj
+1466,203,None
+1467,203,Olomoucky Kraj
+1468,203,Pardubicky Kraj
+1469,203,Plzensky Kraj
+1470,203,Stredocesky Kraj
+1471,203,Ustecky Kraj
+1472,203,Vysocina
+1473,203,Zlinsky Kraj
+1474,204,Aisn del General Carlos Ibnez del Campo
+1475,204,Antofagasta
+1476,204,Araucana
+1477,204,Atacama
+1478,204,Bo-Bo
+1479,204,Coquimbo
+1480,204,Libertador General Bernardo O''Higgins
+1481,204,Los Lagos
+1482,204,Magallanes y de la Antrtica Chilena
+1483,204,Maule
+1484,204,Region Metropolitana
+1485,204,Tarapac
+1486,204,Valparaso
+1487,205,Aargau
+1488,205,Appenzell Ausserrhoden
+1489,205,Appenzell Innerrhoden
+1490,205,Basel-Landschaft
+1491,205,Basel-Stadt
+1492,205,Bern
+1493,205,Fribourg
+1494,205,Genve
+1495,205,Glarus
+1496,205,Graubnden
+1497,205,Jura
+1498,205,Luzern
+1499,205,Neuchtel
+1500,205,Nidwalden
+1501,205,Obwalden
+1502,205,Sankt Gallen
+1503,205,Schaffhausen
+1504,205,Schwyz
+1505,205,Solothurn
+1506,205,Thurgau
+1507,205,Ticino
+1508,205,Uri
+1509,205,Valais
+1510,205,Vaud
+1511,205,Zug
+1512,205,Zrich
+1513,206,Blekinge Lan
+1514,206,Dalarnas Lan
+1515,206,Gavleborgs Lan
+1516,206,Gotlands Lan
+1517,206,Hallands Lan
+1518,206,Jamtlands Lan
+1519,206,Jonkopings Lan
+1520,206,Kalmar Lan
+1521,206,Kronobergs Lan
+1522,206,None
+1523,206,Norrbottens Lan
+1524,206,Orebro Lan
+1525,206,Ostergotlands Lan
+1526,206,Skane Lan
+1527,206,Sodermanlands Lan
+1528,206,Stockholms Lan
+1529,206,Uppsala Lan
+1530,206,Varmlands Lan
+1531,206,Vasterbottens Lan
+1532,206,Vasternorrlands Lan
+1533,206,Vastmanlands Lan
+1534,206,Vastra Gotaland
+1535,207,Шри-Ланка
+1536,208,Azuay
+1537,208,Bolvar
+1538,208,Chimborazo
+1539,208,El Oro
+1540,208,Galpagos
+1541,208,Guayas
+1542,208,Imbabura
+1543,208,Loja
+1544,208,Manab
+1545,208,Napo
+1546,208,Pastaza
+1547,208,Pichincha
+1548,208,Tungurahua
+1549,209,Малабо
+1550,210,Эритрея
+1551,211,Эстония
+1552,212,Эфиопия
+1553,213,Йоханесбург
+1554,214,Cheju
+1555,214,Chollabuk
+1556,214,Chollanam
+1557,214,Chungcheongbuk
+1558,214,Chungcheongnam
+1559,214,Incheon
+1560,214,Kangweon
+1561,214,Kwangju
+1562,214,Kyeonggi
+1563,214,Kyeongsangbuk
+1564,214,Kyeongsangnam
+1565,214,Pusan
+1566,214,Seoul
+1567,214,Taegu
+1568,214,Taejeon
+1569,214,Ulsan
+1570,214,Южная Корея
+1571,215,Южная Осетия
+1572,216,Ямайка
+1573,217,Айти
+1574,217,Аомори
+1575,217,Вакаяма
+1576,217,Гумма
+1577,217,Ибараки
+1578,217,Ивате
+1579,217,Исикава
+1580,217,Кагосима
+1581,217,Канагава
+1582,217,Киото
+1583,217,Коти
+1584,217,Мияги
+1585,217,Миядзаки
+1586,217,Нагано
+1587,217,Нагасаки
+1588,217,Нара
+1589,217,Ниигата
+1590,217,Окаяма
+1591,217,Окинава
+1592,217,Осака
+1593,217,Сага
+1594,217,Сайтама
+1595,217,Сига
+1596,217,Сидзуока
+1597,217,Тиба
+1598,217,Токио
+1599,217,Токусима
+1600,217,Тотиги
+1601,217,Тояма
+1602,217,Фукуи
+1603,217,Фукуока
+1604,217,Фукусима
+1605,217,Хиросима
+1606,217,Хоккайдо
+1607,217,Хпого
+1608,217,Эхиме
+1609,217,Ямагути
+1610,217,Яманаси
